@@ -9,6 +9,9 @@
 # Date:   Fall 2022
 #--------------------------------------------------------------
 
+#Ask the user for a date, specifying the format
+user_date = "7/3/2003" #input("Enter a date (M/D/YYYY): ")
+
 #Create a variable point to the data file
 file_name = './data/raw/Sara.txt.txt'
 
